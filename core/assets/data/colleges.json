@@ -1,0 +1,59 @@
+[
+  {
+    "class": "uk.ac.york.sepr4.object.building.College",
+    "name": "Halifax College",
+    "mapObjectStr": "halifax",
+    "bossName": "Oleg",
+    "crewMemberId": 1,
+    "bossSpawnThreshold": 5,
+    "bossDifficulty": 2,
+    "enemyDifficulty": 1,
+    "spawnChance": 0.5
+  },
+  {
+    "class": "uk.ac.york.sepr4.object.building.College",
+    "name": "Derwent College",
+    "mapObjectStr": "derwent",
+    "bossName": "Asbest-Boss",
+    "crewMemberId": 2,
+    "bossSpawnThreshold": 8,
+    "bossDifficulty": 3,
+    "enemyDifficulty": 2,
+    "spawnChance": 1.0
+  },
+  {
+    "class": "uk.ac.york.sepr4.object.building.College",
+    "name": "Langwith College",
+    "mapObjectStr": "langwith",
+    "bossName": "GlassHouse Manager",
+    "crewMemberId": 3,
+    "bossSpawnThreshold": 10,
+    "bossDifficulty": 5,
+    "enemyDifficulty": 3,
+    "spawnChance": 0.8
+
+  },
+  {
+    "class": "uk.ac.york.sepr4.object.building.College",
+    "name": "James College",
+    "mapObjectStr": "james",
+    "bossName": "PE Teacher",
+    "crewMemberId": 4,
+    "bossSpawnThreshold": 12,
+    "bossDifficulty": 7,
+    "enemyDifficulty": 5,
+    "spawnChance": 0.6
+
+  },
+  {
+    "class": "uk.ac.york.sepr4.object.building.College",
+    "name": "Constantine College",
+    "mapObjectStr": "constantine",
+    "bossName": "Big Boi",
+    "crewMemberId": 5,
+    "bossSpawnThreshold": 15,
+    "bossDifficulty": 10,
+    "enemyDifficulty": 8,
+    "spawnChance": 0.4
+  }
+]
